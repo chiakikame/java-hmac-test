@@ -1,0 +1,5 @@
+= hmac usage in Java
+
+This code shows how to use HMAC, Hash-based message authentication code, in Java.
+This code also shows how to assign text encoding before sending String into a
+hasher. (Since depending on default setting is not a good practice.)
